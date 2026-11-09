@@ -32,7 +32,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananya-phad&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.shion.dev/api ?username=ananya-phad&theme=dark&hide _border=false&include_all_commits=false& count_private=false)
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ananya-phad&theme=dark&hide_border=true)
 
