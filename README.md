@@ -32,11 +32,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananya-phad&theme=dark&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananya-phad&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ananya-phad&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-phad&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-phad&layout=compact&theme=dark&hide_border=true)
 
 ---
 
