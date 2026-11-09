@@ -1,18 +1,45 @@
-# 💫 About Me:
-# Hi, I'm Ananya Phad! 👋<br>🎓 BCS Student | 💻 Aspiring Frontend Developer<br>🌱 Currently learning HTML and CSS.<br>🎯 Interested in building websites and useful applications.<br><br>## Skills<br>- HTML<br>- CSS (Currently Learning)<br><br>## Projects<br>- AI-Based Smart Petrol Pump Management System (Demo Website)<br><br>## Goals<br>- Improve my frontend development skills.<br>- Build practical web development projects.<br>- Learn new technologies and create useful applications.<br><br>Thank you for visiting my profile! 😊
+# 💫 About Me
 
+# Hi, I'm Ananya Phad! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananya-phad24) 
+🎓 BCS Student | 💻 Aspiring Frontend Developer
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ananya-phad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ananya-phad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ananya-phad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌱 Currently learning HTML and CSS.  
+🎯 Interested in building creative websites and useful applications.  
+💡 Passionate about learning new technologies and improving my coding skills.
+
+## 🛠️ Skills
+- HTML5
+- CSS3 (Currently Learning)
+
+## 🚀 Projects
+- **AI-Based Smart Petrol Pump Management System** – Demo Website
+
+## 🎯 Goals
+- Improve my frontend development skills.
+- Build practical web development projects.
+- Learn JavaScript and other new technologies.
+- Contribute to open-source projects.
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ananya-phad24)
+
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananya-phad&theme=dark&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ananya-phad&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-phad&theme=dark&hide_border=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ananya-phad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=ananya-phad&color=blue&style=flat)
+
+✨ *Thank you for visiting my profile! Keep learning, keep building.* 😊
